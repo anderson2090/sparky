@@ -4,7 +4,7 @@ const QuoteSec = () => {
   return (
     <div className={styles.main}>
       <p className={styles.quote}>
-        Don't worry, be happy, unless you're on fire, then worry!
+        Don&apos;t worry, be happy, unless you&apos;re on fire, then worry!
       </p>
       <p className={styles.from}>- Sparky, The Fire and Ice Dragon</p>
     </div>

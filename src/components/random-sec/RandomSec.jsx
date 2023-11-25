@@ -5,7 +5,7 @@ const RandomSec = () => {
   return (
     <div className={styles.main}>
       <p className={styles.heading}>
-        Spaky's Fun Activities: Fire and Ice Adventures
+        Spaky&apos;s Fun Activities: Fire and Ice Adventures
       </p>
       <CardList />
     </div>
