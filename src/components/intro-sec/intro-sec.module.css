@@ -1,7 +1,6 @@
 .intro {
   display: flex;
   align-items: center;
-  height: 500px;
   background-color: #1f2937;
   padding: 50px;
   gap: 10px;
