@@ -19,7 +19,7 @@ const IntroSec = () => {
         </Link>
       </div>
       <div className={styles.imageContainer}>
-        <Image src="/sparky.jpeg" width={300} height={300} />
+        <Image src="/sparky.jpeg" width={400} height={400} />
       </div>
     </div>
   );

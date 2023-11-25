@@ -1,0 +1,14 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  background-color: white;
+  height: 500px;
+}
+.heading {
+  margin-top: 50px;  
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: bolder;
+}
