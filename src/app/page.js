@@ -1,10 +1,10 @@
+import IntroSec from "@/components/intro-sec/IntroSec";
 import React from "react";
 
 const Home = () => {
   return (
     <div>
-      Home
-      
+      <IntroSec />
     </div>
   );
 };
